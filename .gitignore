@@ -1,0 +1,17 @@
+# Environment
+venv/
+.venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+.vscode/
+
+# Data and models (regenerate with the scripts; see README)
+data/raw/
+data/processed/
+data/models/
